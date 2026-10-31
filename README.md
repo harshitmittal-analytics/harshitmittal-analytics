@@ -11,7 +11,7 @@
 ### 🌐 Socials & Live Portfolio:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitmittal7927)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitmittal9702@gmail.com)
-[![Notion Portfolio](https://harshmittal-analytics.notion.site/Hey-there-I-am-Harshit-40aae9ab08cb8094bdbcdc867ac05eeb?source=copy_link)]
+[![Notion Portfolio](https://img.shields.io/badge/Live_Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://harshmittal-analytics.notion.site/Hey-there-I-am-Harshit-40aae9ab08cb8094bdbcdc867ac05eeb?source=copy_link)
 
 ---
 
