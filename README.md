@@ -10,9 +10,8 @@ Data-driven B.Sc. Computer Science graduate with nearly 3 years of corporate ope
 - **Certifications:** Cisco Data Analytics Essentials
 
 ### 📊 Featured Power BI & Data Portfolio
-👉 **[View My Complete Data Analytics Portfolio Repository Here](https://github.com/harshitmittal-analytics/harshitmittal-analytics)**
-- **Enterprise Sales & Profitability Dashboard:** End-to-end SQL extraction, Power Query ETL, Star Schema modeling, and YoY/YTD DAX tracking.
-- **SLA Performance Tracker:** Operational workflow monitoring with gauge indicators and conditional breach alerts.
-- **Workforce Attrition & Retention Analytics:** HR diagnostic dashboard analyzing turnover drivers, compensation bands, and headcount metrics.
+- **[Enterprise Sales & Profitability Dashboard](https://github.com/harshitmittal-analytics/Enterprise-Sales-Profitability-PowerBI):** End-to-end SQL extraction, Power Query ETL, Star Schema modeling, and YoY/YTD DAX tracking.
+- **[SLA Performance Tracker](https://github.com/harshitmittal-analytics/SLA-Performance-Tracker-PowerBI):** Operational workflow monitoring with gauge indicators and conditional breach alerts.
+- **[Workforce Attrition & Retention Analytics](https://github.com/harshitmittal-analytics/Workforce-Attrition-Analytics-PowerBI):** HR diagnostic dashboard analyzing turnover drivers, compensation bands, and headcount metrics.
 
 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/harshitmittal7927) | **Email:** harshitmittal9702@gmail.com
