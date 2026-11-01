@@ -3,12 +3,12 @@
 
 - 🎓 **B.Sc. Computer Science** graduate with nearly **3 years of corporate operations & SLA management** experience at ParallelDots.
 - 📊 Specializing in **SQL data extraction, Power Query (ETL), Star Schema modeling, explicit DAX calculations,** and interactive **Power BI** dashboards.
-- 🏅 Certified in **Cisco Data Analytics Essentials**.
+- 🏅 Certified in **Cisco Data Analytics Essentials** & **Deloitte Australia Data Analytics Job Simulation**.
 - ⚡ Turning messy datasets into automated trackers and executive insights.
 
 ---
 
-### 🌐 Socials & Live Portfolio:
+### 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitmittal7927)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitmittal9702@gmail.com)
 
